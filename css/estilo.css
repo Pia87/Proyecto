@@ -1,0 +1,19 @@
+nav{
+    
+    
+    
+}
+.hero{
+    background: url(../img/camposhero.jpeg.jpeg) no-repeat;
+    background-size: cover;
+    height: 50vh;
+    min-height: 600px;
+    color: azure;
+    
+}
+
+
+
+footer{
+    background-color: #aaa;
+}
