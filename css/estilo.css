@@ -4,7 +4,7 @@ nav{
     
 }
 .hero{
-    background: url(../img/camposhero.jpeg.jpeg) no-repeat;
+    background-color: rgb(124, 115, 167);
     background-size: cover;
     height: 50vh;
     min-height: 600px;
